@@ -1,0 +1,170 @@
+body{
+    margin:0;
+    background-color: blueviolet;
+    width: 100%;
+    height:80vh;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/001/984/861/original/abstract-blue-geometric-circles-overlapping-background-with-light-blue-free-vector.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+#dilkiimage{
+    height: 25px;
+    width: 25px;
+    margin-top: 2px;
+    position: absolute;
+    margin-left: -28px;
+}
+#introduction{
+    width: 500px;
+    font-family: sans-serif;
+    margin: 40px auto;
+}
+
+.beast{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+
+#introduction > span{
+    color:#3116b1;
+    font-size: 46px;
+    font-weight: 600;
+    font-family: fantasy;
+}
+#intro-beast{
+    width: 200px;
+   margin: auto;
+    
+}
+
+#fab-tab{
+    text-decoration: none;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 1221px;
+    font-size: x-large;
+    font-weight: 700;
+}
+#fab-tab:hover{
+    color:red;
+}
+#search-container{
+   margin-left:30%;
+    margin-top:10%;
+}
+
+#input1{
+    height: 58px;
+    width: 50%;
+    border: none;
+    border-radius: 80px;
+    font-size: 25px;
+    font-weight: 800;
+    color: crimson;
+    padding-left: 18px;
+}
+#Btn{
+    position: absolute;
+    height: 50px;
+    width: 80px;
+    border-radius: 61px;
+    margin-top: 5px;
+    margin-left: -82px;
+    background-color: gray;
+}
+
+#Btn:hover{
+    background-color: rgb(167, 233, 157);
+}
+
+li{
+    color: white;
+    background-color: rgb(3, 56, 56);
+   background: transparent;
+    width: 34%;
+    margin-left: 29%;
+    list-style-type:none;
+    
+}
+
+li:hover{
+    background-color: rgb(149, 41, 124);
+}
+.listItem{
+    text-decoration: none;
+}
+
+.listimage{
+    height: 120px;
+    width:120px;
+}
+
+.heartImage{
+    height: 40px;
+    width: 40px;
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 25px
+}
+
+.content{
+    margin-left:10%;
+    width: 80%;
+    
+    }
+.content > div{
+    display: inline-block;
+
+}
+
+.listimage{
+    height: 120px;
+    width:120px;
+}
+
+.likeImage{
+    height:25px;
+    width:25px;
+}
+    
+.myId{
+display:block;
+font-size: x-large;
+font-weight: 700;
+
+}
+.myName{
+    display:block;
+    font-size: x-large;
+    font-weight: 700;
+}
+
+.btn{
+    position: absolute;
+    margin-left: 18%;
+    margin-top: 2.5%;
+}
+.rightDiv{
+    position: absolute;
+    margin-top: 3%;
+    margin-left: 1%;
+}
+.list{
+    position: absolute;
+    width:34%;background-color: #555;
+    margin: auto;
+    margin-left:31%;
+    color: #ffffff;
+    z-index: 1;
+} 
+.autocomplete-items{
+    padding:0.5em;
+}  
+.autocomplete-items:hover{
+    background-color: #ddd;
+    color:#171821;
+}    
+    
+    

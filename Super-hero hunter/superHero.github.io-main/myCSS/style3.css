@@ -1,0 +1,79 @@
+#gotohome{
+    text-decoration: none;
+    position: absolute;
+    margin-top: 202px;
+    margin-left: 1170px;
+    font-size: xxx-large;
+    font-weight: 700;
+    color: #f3ff2b
+}
+
+#gotohome:hover{
+    color: rgb(12 13 11);
+}
+ 
+body{
+    background-color: rgb(4, 24, 30);
+}
+.heading-hero{
+    font-family: sans-serif;
+    color: whitesmoke;
+    margin-left: 25rem;
+    font-weight: 800;
+}
+
+.add-to-fav{
+    margin-left: 32rem;
+    margin-top: 45rem;
+    position: absolute;
+    cursor: pointer;
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    color:white;
+    background-color: var(--primary);
+    transition: 0.4s;
+    user-select: none;
+    font-size: large;
+}
+.add-to-fav:hover{
+    opacity: 0.7;
+    color: red;
+}
+.add-to-fav:active{
+    background-color: var(--dark);
+}
+.detailImg{
+    height: 20rem;
+    height: 20rem;
+    margin-left: 29rem;
+    border: 1px solid white;
+}
+.mybold{
+    margin-left: 29rem;
+    font-weight: 700;
+    font-family: sans-serif;
+    color: whitesmoke;
+}
+.head{
+    font-family: sans-serif;
+    margin-left: 19rem;
+    font-size: xx-large;
+    color: whitesmoke;
+}
+.head1{
+    margin-left: 45rem;
+    margin-top: -13.7rem;
+    font-family: sans-serif;
+    font-size: xx-large;
+    color: whitesmoke;
+}
+.appearance{
+    margin-left: 19rem;
+    font-family: sans-serif;
+    color: whitesmoke;
+}
+.powerstats{
+    margin-left: 45rem;
+    font-family: sans-serif;
+    color: whitesmoke;
+}
