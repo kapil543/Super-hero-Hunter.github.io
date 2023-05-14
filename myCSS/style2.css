@@ -1,0 +1,72 @@
+#gotohome{
+    text-decoration: none;
+    position: absolute;
+    margin-top: 83px;
+    margin-left: 1170px;
+    font-size: xxx-large;
+    font-weight: 700;
+    color: darkmagenta;
+}
+
+#gotohome:hover{
+    color:rgb(176, 193, 22);
+}
+  
+body{
+    background-image: url(https://images.ctfassets.net/ysvqcrvza11o/90wGNNrJdEoEIGEXpa9g3/f968c85807d7f1dab2c583ddd7b433b1/Good_News__5_.jpg?w=1440&fm=webp&q=70);
+height: 75vh;
+width: 75vw;
+ 
+margin-top: 200px;
+}
+.heading{
+    margin-left: 25rem;
+    color: indianred;
+    font-size: xx-large;
+    font-family: sans-serif;
+    position: absolute;
+    margin-top: -8rem;
+}
+.gotohome{
+    text-decoration: none;
+    background-color: transparent;
+    color:white;
+    margin-top: -6rem;
+    margin-left: 2rem;
+    position: absolute;
+}
+.gotohome:hover{
+    color:red;
+    text-decoration: underline;
+    opacity: 0.7;
+}
+.gotohome:active{
+color: blueviolet;
+}
+.favDiv{
+    margin-top: 6rem;
+}
+.favImage{
+    height: 10rem;
+    position: absolute;
+    margin-left: 21rem;
+
+}
+.deleteimage{
+    height: 2rem;
+}
+.deleteimage:hover{
+    opacity: 0.7;
+    background-color: red;
+    transition: 0.5s;
+}
+.aaaad{
+    font-family: sans-serif;
+    color: whitesmoke;
+    font-size: larger;
+    font-weight: 600;
+}
+::marker{
+    color: whitesmoke;
+    font-size: larger;
+}
